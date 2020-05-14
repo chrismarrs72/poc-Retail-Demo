@@ -1,0 +1,9 @@
+{
+  "NServiceBus.OriginatingEndpoint": "ClientUI",
+  "NServiceBus.OriginatingMachine": "HP-8200",
+  "$.diagnostics.originating.hostid": "e94d76f32ee509e269d316f7882d4225",
+  "$.diagnostics.hostdisplayname": "HP-8200",
+  "NServiceBus.EnclosedMessageTypes": "NServiceBus.Metrics.MetricReport",
+  "NServiceBus.ContentType": "application\/json",
+  "NServiceBus.Transport.Learning.TimeToBeReceived": "7.00:00:00"
+}

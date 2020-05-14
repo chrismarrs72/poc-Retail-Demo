@@ -1,0 +1,22 @@
+{
+  "NServiceBus.MessageId": "20d0a476-3646-4fba-bf8b-abbb0040341f",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "f4927f1d-a7fb-4a41-a070-abbb00403422",
+  "NServiceBus.CorrelationId": "20d0a476-3646-4fba-bf8b-abbb0040341f",
+  "NServiceBus.ReplyToAddress": "ClientUI",
+  "NServiceBus.OriginatingMachine": "HP-8200",
+  "NServiceBus.OriginatingEndpoint": "ClientUI",
+  "$.diagnostics.originating.hostid": "e94d76f32ee509e269d316f7882d4225",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.PlaceOrder, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.3.0",
+  "NServiceBus.TimeSent": "2020-05-14 03:53:45:544716 Z",
+  "NServiceBus.Metrics.QueueLength.Key": "audit-90645d73-583b-e517-cab9-65ecc84ecc25",
+  "NServiceBus.Metrics.QueueLength.Value": "1",
+  "NServiceBus.ProcessingStarted": "2020-05-14 03:53:45:605107 Z",
+  "NServiceBus.ProcessingEnded": "2020-05-14 03:53:45:741582 Z",
+  "$.diagnostics.hostid": "90645d73583be517cab965ecc84ecc25",
+  "$.diagnostics.hostdisplayname": "HP-8200",
+  "NServiceBus.ProcessingMachine": "HP-8200",
+  "NServiceBus.ProcessingEndpoint": "Sales"
+}

@@ -1,0 +1,9 @@
+{
+  "NServiceBus.OriginatingEndpoint": "Shipping",
+  "NServiceBus.OriginatingMachine": "HP-8200",
+  "$.diagnostics.originating.hostid": "efaf2732bc72f3a62d9c133d68064c8b",
+  "$.diagnostics.hostdisplayname": "HP-8200",
+  "NServiceBus.ContentType": "TaggedLongValueWriterOccurrence",
+  "NServiceBus.Metric.Type": "ProcessingTime",
+  "NServiceBus.Transport.Learning.TimeToBeReceived": "7.00:00:00"
+}
